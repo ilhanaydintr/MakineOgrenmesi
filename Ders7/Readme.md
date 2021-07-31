@@ -1,1 +1,1 @@
-
+Algılayıcı Öğrenme Algoritması
