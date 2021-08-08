@@ -1,1 +1,1 @@
-##Destek Vektör Makinalar
+Destek Vektör Makinalar
