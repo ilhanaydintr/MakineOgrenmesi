@@ -1,0 +1,1 @@
+Birliktelik Kural Madenciliği
